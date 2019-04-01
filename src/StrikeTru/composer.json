@@ -1,0 +1,18 @@
+{
+    "name": "striketru/strike-tru",
+    "description": "Test packaage file",
+    "type": "liry",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rambabu D",
+            "email": "dama.rambabu@striketru.com"
+        }
+    ],
+    "autoload":{
+	"psr-4\\StrikeTru\Bundle":{"src/"}
+    },
+    "require": {"akeneo/pim-enterprise-dev": "~2.3.0",
+	 "akeneo/pim-community-dev": "~2.3.0"	    
+    }
+}
