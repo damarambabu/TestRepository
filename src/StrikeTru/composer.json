@@ -10,7 +10,7 @@
         }
     ],
     "autoload":{
-	"psr-4\\StrikeTru\Bundle":{"src/"}
+	"psr-4":{"StrikeTru\\Bundle":"src/"}
     },
     "require": {"akeneo/pim-enterprise-dev": "~2.3.0",
 	 "akeneo/pim-community-dev": "~2.3.0"	    
