@@ -1,0 +1,13 @@
+{
+    "name": "striketru/git",
+    "description": "Test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rambabu D",
+            "email": "dama.rambabu@striketru.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
