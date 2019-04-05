@@ -1,5 +1,5 @@
 {
-    "name": "striketru/git",
+    "name": "striketru/git/hellow-world1",
     "description": "Test",
     "type": "library",
     "authors": [
@@ -8,5 +8,10 @@
             "email": "dama.rambabu@striketru.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0" : {
+            "HelloWorld" : "src"
+        }
+    }    
 }
