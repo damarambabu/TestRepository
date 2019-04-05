@@ -8,6 +8,5 @@
             "email": "dama.rambabu@striketru.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }
